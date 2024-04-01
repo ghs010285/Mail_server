@@ -1,0 +1,140 @@
+22-3월-2024 23:00:04.773 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:00:05.188 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:02:52.371 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:02:52.654 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:05:13.621 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:15:45.119 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:15:45.743 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:19:44.151 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:19:44.824 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:23:45.650 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:23:46.317 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:37:27.598 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:37:28.363 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:44:38.784 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:44:39.634 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:45:31.719 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:45:32.472 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:46:53.328 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+22-3월-2024 23:46:54.094 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+22-3월-2024 23:58:00.068 INFO [smtpserver-executor-20] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711119479738-b15dca04-a965-4790-93c4-9ce51263436a from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [test@veno.kr]
+23-3월-2024 13:45:38.893 INFO [smtpserver-executor-86] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711169138882-6622f877-b79c-46f0-a93f-f66127bb78e2 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [test@veno.kr]
+23-3월-2024 13:52:02.471 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 13:52:03.490 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 13:58:55.942 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 13:58:56.779 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:01:57.891 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:01:58.662 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:03:32.813 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:03:33.640 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:12:10.888 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:12:11.726 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:25:20.455 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:25:21.180 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:51:02.482 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:51:03.287 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:53:12.543 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:53:13.344 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 14:56:43.674 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 14:56:44.558 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 15:00:02.024 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 15:00:03.026 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 15:17:34.581 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 15:17:35.461 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 15:19:26.777 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 15:19:27.622 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 15:24:35.385 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 15:24:36.151 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 15:28:42.222 INFO [smtpserver-executor-13] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711175322153-1cd2cd60-bbf8-4f03-99a2-a95d0f0d0ea3 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [test@veno.kr]
+23-3월-2024 16:00:18.103 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 16:00:18.946 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 16:01:30.390 INFO [smtpserver-executor-28] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711177290318-4e88ee62-b9bb-4578-8c97-0e6d450d0087 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [test@veno.kr]
+23-3월-2024 16:05:11.416 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 16:05:12.315 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 16:18:19.154 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 16:18:19.900 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 16:24:01.856 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 16:24:02.639 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 16:48:56.233 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 16:48:57.017 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 16:49:06.249 INFO [smtpserver-executor-14] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711180146101-4ea2b7f8-ce35-4021-aa01-5cc327a7e007 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+23-3월-2024 16:53:02.368 INFO [smtpserver-executor-29] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711180382356-87e0ae4d-f27e-488c-bdbe-7ad6567a2440 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+23-3월-2024 20:39:59.744 INFO [smtpserver-executor-58] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711193999731-8e96fd20-e8e5-4228-be51-5ba3fa97b39a from MaybeSender{mailAddress=Optional[test@veno.kr]} on 106.101.3.231/106.101.3.231 for [test@veno.kr]
+23-3월-2024 22:07:35.716 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 22:07:37.257 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 22:14:38.368 INFO [smtpserver-executor-13] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711199678356-9e4fcd96-1826-418b-9718-e1a59ca27232 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+23-3월-2024 22:27:35.789 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 22:27:36.798 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 22:28:31.485 INFO [smtpserver-executor-13] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711200511333-4c0d947a-cfbf-4d42-833f-9c6f63635341 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+23-3월-2024 22:29:27.566 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+23-3월-2024 22:29:28.391 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+23-3월-2024 22:29:45.540 INFO [smtpserver-executor-13] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711200585388-14643564-9373-42cb-8acc-57a1ca8a1b54 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+23-3월-2024 22:40:30.488 INFO [smtpserver-executor-29] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711201230480-c37698e8-45d0-4bb1-97d0-155244512092 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [veno@kakao.com]
+24-3월-2024 14:12:13.091 INFO [smtpserver-executor-74] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711257133063-3cc62fba-b2ce-40db-85e4-c9a6582f6090 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+24-3월-2024 14:38:15.463 INFO [smtpserver-executor-91] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711258695451-a3f133b6-3dfb-43bb-83bc-0e0db631b2d0 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com, veno@kakao.com, ghs010285@naver.com]
+25-3월-2024 14:57:44.129 INFO [smtpserver-executor-207] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711346264103-ce0b0bd6-236c-458c-a0a1-9263496f5f3b from MaybeSender{mailAddress=Optional[test@veno.kr]} on 106.101.3.231/106.101.3.231 for [ghs010285@naver.com]
+25-3월-2024 14:58:35.893 INFO [smtpserver-executor-214] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711346315887-e87d67ba-4595-402d-b0e7-b79359e9b65f from MaybeSender{mailAddress=Optional[test@veno.kr]} on 106.101.3.231/106.101.3.231 for [ghs010285@gmail.com]
+25-3월-2024 22:02:22.246 INFO [smtpserver-executor-232] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711371742227-5919cf75-51fa-494a-8b38-bf46caa118f2 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [asb1202@veno.kr]
+25-3월-2024 22:03:46.597 INFO [smtpserver-executor-241] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711371826584-c4dfbc41-6d55-4249-8116-734e7555a507 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [asb1202@veno.kr]
+27-3월-2024 14:09:08.171 INFO [smtpserver-executor-313] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711516148137-5b00035b-a562-425a-853f-cc07b3aefad6 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 106.101.3.231/106.101.3.231 for [ghs010285@gmail.com]
+27-3월-2024 14:43:48.670 INFO [smtpserver-executor-340] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711518228657-957057c5-a10a-42f6-9dcc-79f4ca161df2 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 106.101.3.231/106.101.3.231 for [test@veno.kr]
+28-3월-2024 18:58:10.662 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 18:58:11.720 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:01:40.052 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:01:40.952 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:29:24.309 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:29:24.314 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:29:24.316 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:29:24.892 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:29:25.658 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:29:25.833 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:40:07.737 INFO [smtpserver-executor-5] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622407433-f70cca5f-45ce-4d66-855c-cd8c57420010 from MaybeSender{mailAddress=Optional[gohyeonseop1@gmail.com]} on mail-pf1-f196.google.com/209.85.210.196 for [test@veno.kr]
+28-3월-2024 19:40:43.410 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:40:43.420 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:40:43.425 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 19:40:44.018 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:40:44.740 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:40:45.069 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 19:41:28.272 INFO [smtpserver-executor-13] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622488124-07758c0a-3568-439f-8aae-226bfefdd219 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@gmail.com]
+28-3월-2024 19:42:33.577 INFO [smtpserver-executor-11] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622553566-75a12b4b-d275-4a6b-b358-8bfb882880c8 from MaybeSender{mailAddress=Optional[gohyeonseop1@gmail.com]} on mail-pj1-f68.google.com/209.85.216.68 for [test@veno.kr]
+28-3월-2024 19:43:57.254 INFO [smtpserver-executor-22] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622637242-f85fd17b-e113-4b96-bbd6-a7b2f6de2246 from MaybeSender{mailAddress=Optional[ghs010285@naver.com]} on cvsmtppost37.nm.naver.com/114.111.35.170 for [test@veno.kr]
+28-3월-2024 19:44:22.054 INFO [smtpserver-executor-30] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622662040-020e5e64-ecad-47af-9678-84dc1acad517 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [ghs010285@naver.com]
+28-3월-2024 19:45:10.800 INFO [smtpserver-executor-45] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711622710791-993c0548-414d-4e68-bc70-75d1a2b05688 from MaybeSender{mailAddress=Optional[test@veno.kr]} on 125.190.58.23/125.190.58.23 for [gohyeonseop1@gmail.com]
+28-3월-2024 20:23:29.061 INFO [smtpserver-executor-30] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711625009043-ad86ee8b-f6c0-4403-8b8a-ab1d89b33e27 from MaybeSender{mailAddress=Optional[gohyeonseop1@gmail.com]} on mail-yb1-f195.google.com/209.85.219.195 for [test@veno.kr]
+28-3월-2024 20:27:20.652 INFO [smtpserver-executor-43] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711625240631-653a0675-4621-420d-8cbb-4a69c30c6c08 from MaybeSender{mailAddress=Optional[gohyeonseop1@gmail.com]} on mail-ot1-f66.google.com/209.85.210.66 for [test@veno.kr]
+28-3월-2024 23:41:38.460 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 23:41:38.470 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 23:41:38.475 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+28-3월-2024 23:41:38.914 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 23:41:39.499 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 23:41:39.697 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+28-3월-2024 23:47:22.622 INFO [smtpserver-executor-6] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711637242496-fc4a3452-ae33-4056-98fd-dda771cb22bf from MaybeSender{mailAddress=Optional[no-reply@mail.instagram.com]} on 66-220-155-151.mail-mail.facebook.com/66.220.155.151 for [studio@veno.kr]
+28-3월-2024 23:49:23.014 INFO [smtpserver-executor-10] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711637363002-ad07738f-0ba4-46f4-afac-f5152dfad21b from MaybeSender{mailAddress=Optional[no-reply@mail.instagram.com]} on 69-171-232-131.mail-mail.facebook.com/69.171.232.131 for [studio@veno.kr]
+28-3월-2024 23:51:37.099 INFO [smtpserver-executor-26] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711637497082-60e2575e-fe96-432c-801e-16dca9e6e22d from MaybeSender{mailAddress=Optional[security@mail.instagram.com]} on 66-220-144-143.mail-mail.facebook.com/66.220.144.143 for [studio@veno.kr]
+28-3월-2024 23:51:40.856 INFO [smtpserver-executor-38] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711637500844-bf6a13a9-0e8a-4f81-a554-c7104206f3bc from MaybeSender{mailAddress=Optional[registrations@mail.instagram.com]} on 69-171-232-143.mail-mail.facebook.com/69.171.232.143 for [studio@veno.kr]
+28-3월-2024 23:52:20.035 INFO [smtpserver-executor-42] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711637540028-4f90115d-d12b-4987-abf4-fa866802a668 from MaybeSender{mailAddress=Optional[security@mail.instagram.com]} on 66-220-155-143.mail-mail.facebook.com/66.220.155.143 for [studio@veno.kr]
+29-3월-2024 11:33:01.298 INFO [smtpserver-executor-72] org.apache.james.smtpserver.SendMailHandler.onMessage:74 - Successfully spooled mail Mail1711679581272-7e68d621-83d4-4348-9e4e-b7b8d281e614 from MaybeSender{mailAddress=Optional[security@mail.instagram.com]} on 69-171-232-135.mail-mail.facebook.com/69.171.232.135 for [studio@veno.kr]
+29-3월-2024 15:44:46.939 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:44:46.950 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:44:46.955 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:44:47.724 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 15:44:52.650 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 15:44:52.766 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 15:53:29.179 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:53:29.197 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:53:29.198 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 15:53:29.822 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 15:53:33.812 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 15:53:34.195 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 16:54:28.017 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 16:54:28.021 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 16:54:28.022 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+29-3월-2024 16:54:28.543 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 16:54:29.238 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+29-3월-2024 16:54:29.372 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+30-3월-2024 11:56:46.308 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+30-3월-2024 11:56:46.330 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+30-3월-2024 11:56:46.336 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:239 - No maximum message size is enforced for this server.
+30-3월-2024 11:56:47.132 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+30-3월-2024 11:56:49.602 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]
+30-3월-2024 11:56:49.721 INFO [WrapperSimpleAppMain] org.apache.james.smtpserver.netty.SMTPServer.preInit:211 - Authorized addresses: [127.0.0.0/255.0.0.0]

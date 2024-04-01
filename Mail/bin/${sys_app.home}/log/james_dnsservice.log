@@ -1,0 +1,365 @@
+22-3월-2024 22:59:52.531 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 22:59:52.546 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 22:59:52.547 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 22:59:52.553 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 22:59:52.638 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:02:44.110 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:02:44.129 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:02:44.130 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:02:44.131 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:02:44.265 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:05:07.966 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:05:07.985 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:05:07.985 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:05:07.987 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:05:08.075 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:15:39.237 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:15:39.252 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:15:39.253 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:15:39.256 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:15:39.340 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:19:38.199 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:19:38.216 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:19:38.217 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:19:38.221 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:19:38.305 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:23:40.071 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:23:40.086 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:23:40.087 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:23:40.093 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:23:40.178 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:37:22.530 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:37:22.554 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:37:22.554 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:37:22.559 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:37:22.642 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:44:34.166 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:44:34.181 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:44:34.182 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:44:34.184 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:44:34.275 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:45:27.063 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:45:27.080 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:45:27.081 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:45:27.082 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:45:27.173 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+22-3월-2024 23:46:48.734 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:144 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+22-3월-2024 23:46:48.753 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:149 - Adding autodiscovered server /164.124.101.2:53
+22-3월-2024 23:46:48.756 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:158 - Adding autodiscovered search path .
+22-3월-2024 23:46:48.757 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 164.124.101.2
+22-3월-2024 23:46:48.846 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 13:51:57.916 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 13:51:57.918 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 13:51:58.021 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 13:58:51.227 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 13:58:51.232 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 13:58:51.328 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:01:53.467 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:01:53.469 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:01:53.561 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:03:27.937 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:03:27.939 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:03:28.055 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:12:06.185 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:12:06.190 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:12:06.296 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:24:03.378 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:24:03.385 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:24:03.484 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:25:16.151 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:25:16.157 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:25:16.252 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:50:57.696 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:182 - No DNS servers have been specified or found by autodiscovery - adding 127.0.0.1
+23-3월-2024 14:50:57.698 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 127.0.0.1
+23-3월-2024 14:50:57.799 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:53:07.962 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 14:53:08.069 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:56:39.068 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 14:56:39.161 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 14:59:57.327 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 14:59:57.425 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 15:17:29.456 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 15:17:29.566 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 15:19:22.216 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 15:19:22.317 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 15:24:30.668 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.196
+23-3월-2024 15:24:30.751 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 16:00:13.522 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 8.8.8.8
+23-3월-2024 16:00:13.611 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 16:05:06.249 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 8.8.8.8
+23-3월-2024 16:05:06.389 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 16:18:14.445 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 16:18:14.446 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 16:18:14.446 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 16:18:14.447 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 16:18:14.551 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 16:23:57.215 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 16:23:57.216 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 16:23:57.216 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 16:23:57.220 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 16:23:57.327 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 16:48:51.709 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 16:48:51.709 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 16:48:51.710 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 16:48:51.710 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 16:48:51.812 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 22:07:30.127 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 22:07:30.129 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 22:07:30.130 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 22:07:30.130 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 22:07:30.233 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 22:07:37.251 INFO [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:07:37.272 INFO [RemoteDelivery-Process-14] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:07:37.316 ERROR [RemoteDelivery-Process-14] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:07:37.304 ERROR [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:07:47.195 INFO [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:07:47.209 ERROR [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:09:27.257 INFO [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:09:27.272 ERROR [RemoteDelivery-Process-13] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:14:38.728 INFO [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:14:38.752 ERROR [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:14:48.725 INFO [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:14:48.733 ERROR [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:16:28.773 INFO [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:16:28.788 ERROR [RemoteDelivery-Process-25] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:17:48.828 INFO [RemoteDelivery-Process-26] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:17:48.845 ERROR [RemoteDelivery-Process-26] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:24:48.975 INFO [RemoteDelivery-Process-34] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:342 - Couldn't resolve MX records for domain gmail.com.
+23-3월-2024 22:24:48.989 ERROR [RemoteDelivery-Process-34] org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords:350 - Couldn't resolve IP address for host gmail.com.
+java.net.UnknownHostException: Invalid address: gmail.com
+	at org.xbill.DNS.Address.getByAddress(Address.java:355) ~[dnsjava-3.4.3.jar:?]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.getByName(DNSJavaService.java:446) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.dnsservice.dnsjava.DNSJavaService.findMXRecords(DNSJavaService.java:344) ~[james-server-dnsservice-dnsjava-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DnsHelper.retrieveHostAddressIterator(DnsHelper.java:43) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.tryDeliver(MailDelivrer.java:114) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.MailDelivrer.deliver(MailDelivrer.java:87) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.attemptDelivery(DeliveryRunnable.java:151) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at org.apache.james.transport.mailets.remote.delivery.DeliveryRunnable.lambda$processMail$3(DeliveryRunnable.java:127) ~[james-server-mailets-3.7.5.jar:3.7.5]
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4400) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.publisher.MonoSubscribeOn$SubscribeOnSubscriber.run(MonoSubscribeOn.java:126) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:84) ~[reactor-core-3.4.13.jar:3.4.13]
+	at reactor.core.scheduler.WorkerTask.call(WorkerTask.java:37) ~[reactor-core-3.4.13.jar:3.4.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+23-3월-2024 22:27:30.457 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+23-3월-2024 22:27:30.460 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 22:27:30.461 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 22:27:30.461 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 22:27:30.461 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 22:27:30.561 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+23-3월-2024 22:29:22.369 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+23-3월-2024 22:29:22.370 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+23-3월-2024 22:29:22.370 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+23-3월-2024 22:29:22.371 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+23-3월-2024 22:29:22.371 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+23-3월-2024 22:29:22.472 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+28-3월-2024 18:58:01.913 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+28-3월-2024 18:58:01.914 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+28-3월-2024 18:58:01.915 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+28-3월-2024 18:58:01.915 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+28-3월-2024 18:58:01.915 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+28-3월-2024 18:58:02.057 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+28-3월-2024 19:01:34.753 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+28-3월-2024 19:01:34.754 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+28-3월-2024 19:01:34.754 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+28-3월-2024 19:01:34.754 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+28-3월-2024 19:01:34.755 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+28-3월-2024 19:01:34.858 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+28-3월-2024 19:29:18.512 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+28-3월-2024 19:29:18.513 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+28-3월-2024 19:29:18.513 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+28-3월-2024 19:29:18.514 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+28-3월-2024 19:29:18.514 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+28-3월-2024 19:29:18.628 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+28-3월-2024 19:40:37.404 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+28-3월-2024 19:40:37.405 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+28-3월-2024 19:40:37.405 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+28-3월-2024 19:40:37.405 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+28-3월-2024 19:40:37.406 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+28-3월-2024 19:40:37.516 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+28-3월-2024 23:41:33.177 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+28-3월-2024 23:41:33.178 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+28-3월-2024 23:41:33.179 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+28-3월-2024 23:41:33.179 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+28-3월-2024 23:41:33.183 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+28-3월-2024 23:41:33.288 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+29-3월-2024 15:44:22.318 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+29-3월-2024 15:44:22.321 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+29-3월-2024 15:44:22.322 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+29-3월-2024 15:44:22.322 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+29-3월-2024 15:44:22.323 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+29-3월-2024 15:44:22.512 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+29-3월-2024 15:53:20.953 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+29-3월-2024 15:53:21.000 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+29-3월-2024 15:53:21.001 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+29-3월-2024 15:53:21.001 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+29-3월-2024 15:53:21.001 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+29-3월-2024 15:53:21.120 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+29-3월-2024 16:54:18.897 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+29-3월-2024 16:54:18.900 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+29-3월-2024 16:54:18.900 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+29-3월-2024 16:54:18.900 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+29-3월-2024 16:54:18.901 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+29-3월-2024 16:54:19.012 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
+30-3월-2024 11:56:19.468 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 168.126.63.1
+30-3월-2024 11:56:19.470 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.134
+30-3월-2024 11:56:19.471 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.246.232
+30-3월-2024 11:56:19.471 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 175.125.93.144
+30-3월-2024 11:56:19.471 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:215 - DNS Server is: 112.175.247.232
+30-3월-2024 11:56:19.810 INFO [WrapperSimpleAppMain] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:234 - Registered cache, resolver and search paths as DNSJava defaults
