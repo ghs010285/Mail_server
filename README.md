@@ -3,7 +3,7 @@
  
  서버 및 OS 정보
  도메인 : veno.kr<br/>
- 서버 : 가비아<br/>
+ 서버DNS : 가비아<br/>
  서버 OS : Debian - Ubuntu 22.04.2 LTS(Jammy Jellyfish)<br/><br/>
  
  자바 버전
