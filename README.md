@@ -19,7 +19,7 @@
  - 데이터베이스(MariaDB) 기반 메일 시스템 구동<br/>
  - SMTP, IMAP 프로토콜 사용<br/>
  - STARTSSL등 보안 프로토콜 가동<br/>
- - 인증서 JKS사용(Let's Envrypt)<br/><br/>
+ - 인증서 JKS사용(Let's Encrypt)<br/><br/>
  
  # 개발 기여도<br/>
  서버 : 고현섭<br/>
