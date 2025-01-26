@@ -15,16 +15,15 @@
  JAMES 안정화 버전 3.7.5<br/><br/>
 
  # 상세설명<br/>
- - 백앤드 기반 작동 서버<br/>
- - 데이터베이스(MariaDB) 기반 메일 시스템 구동<br/>
+ - 리눅스 자바 기반 작동 서버<br/>
+ - 데이터베이스(MariaDB) 중심 메일 시스템 구동<br/>
  - SMTP, IMAP 프로토콜 사용<br/>
  - STARTSSL등 보안 프로토콜 가동<br/>
+ - DKIM, SPF 사용
  - 인증서 JKS사용(Let's Encrypt)<br/><br/>
  
  # 개발 기여도<br/>
  서버 : 고현섭<br/>
- 클라이언트 : 고현섭, 안새빈, 정예진 (Flutter기반 웹메일 개발진행중)<br/>
- 백엔드 : 안새빈(Node.js Express기반 API, 웹서버 Node.js)<br/>
 
 
  https://gossamer-lizard-773.notion.site/veno-kr-4a512ee6d14f42f886ea1005e34ad587?pvs=4
